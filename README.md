@@ -1,2 +1,2 @@
 # Anagkazo-bibles-
-Bibles
+This repo is the official repo for AA HORN OF SALVATION.
